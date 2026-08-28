@@ -1,5 +1,5 @@
 // Cache the app shell so it opens with no signal at the gym.
-const CACHE = "training-log-v30";
+const CACHE = "training-log-v34";
 const ASSETS = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png", "./icon-180.png"];
 
 self.addEventListener("install", (e) => {
